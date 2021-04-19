@@ -31,17 +31,20 @@ Se diseño un exoesqueleto en Solid Works, y se armó con un total de 95 piezas,
 ![exo huevo](https://user-images.githubusercontent.com/82742790/115182809-77773280-a08f-11eb-877f-402088445121.gif)
 
 Control y monitoreo por medio de HMI:
-
+Se elaboro un HMI en LabVIEW, con un total de 6 pestañas
+Iniciando con la primer pestaña de usuario y contraseña
 ![HMI usuario](https://user-images.githubusercontent.com/82742790/115182844-8d84f300-a08f-11eb-8da4-e3381df5c716.gif)
-
+En la pestaña principal, se observan animaciones de la mano robótica, indicadores del estado del sistema, indicadores de alarmas, 
+indicadores de los valores que llegan por el puerto serial.
 ![HMI encendido](https://user-images.githubusercontent.com/82742790/115182855-937ad400-a08f-11eb-8377-4205a007d89b.gif)
-
+Una vez encendido, se inicia por defecto en modo lectura, si se da click en el boton de control, los indicadores de estado cambian a color amarillo
+y los sliders se habilitan. Entonces el usuario tiene control de la mano robotica desde el HMI. 
 ![HMI control](https://user-images.githubusercontent.com/82742790/115182870-98d81e80-a08f-11eb-8e77-fee339e77634.gif)
-
+En la siguiente pestaña, se observa una grafica con las señales de los valores de voltaje y grados de los motores. 
 ![HMI grafica comb](https://user-images.githubusercontent.com/82742790/115182892-a42b4a00-a08f-11eb-9517-4715e59f56b0.gif)
-
+En la siguiente pestaña, se observa una grafica exclusiva para las señales de los movimientos verticales de la mano robotica.
 ![HMI grafica vert](https://user-images.githubusercontent.com/82742790/115182911-aa212b00-a08f-11eb-9049-3a928799deeb.gif)
-
+En la siguiente pestaña, se observa una grafica con las mismas operaciones de la pestaña anterior. Se 
 ![HMI grafica hor](https://user-images.githubusercontent.com/82742790/115182924-adb4b200-a08f-11eb-8ddf-2337062b6147.gif)
 
 ![HMI alarmas](https://user-images.githubusercontent.com/82742790/115182941-b6a58380-a08f-11eb-87bf-97b22d65b543.gif)
