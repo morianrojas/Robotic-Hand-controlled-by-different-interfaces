@@ -59,7 +59,7 @@ indicadores de los valores que llegan por el puerto serial.
 ![HMI encendido](https://user-images.githubusercontent.com/82742790/115182855-937ad400-a08f-11eb-8377-4205a007d89b.gif)
 
 Una vez encendido, se inicia por defecto en modo lectura, si se da click en el boton de control, los indicadores de estado cambian a color amarillo
-y los sliders se habilitan. Entonces el usuario tiene control de la mano robotica desde el HMI. 
+y los sliders se habilitan. Entonces el usuario tiene control de la mano robótica desde el HMI. 
 
 ![HMI control](https://user-images.githubusercontent.com/82742790/115182870-98d81e80-a08f-11eb-8e77-fee339e77634.gif)
 
@@ -67,12 +67,11 @@ En la siguiente pestaña, se observa una gráfica con las señales de los valore
 
 ![HMI grafica comb](https://user-images.githubusercontent.com/82742790/115182892-a42b4a00-a08f-11eb-9517-4715e59f56b0.gif)
 
-En la siguiente pestaña, se observa una gráfica exclusiva para las señales de los movimientos verticales de la mano robótica.
+En la siguiente pestaña, se observa una gráfica exclusiva para las señales de los movimientos verticales de la mano robótica. Con la ventaja de cambiar de modo lectura a modo control y viceversa.
 
 ![HMI grafica vert](https://user-images.githubusercontent.com/82742790/115182911-aa212b00-a08f-11eb-9049-3a928799deeb.gif)
 
-En la siguiente pestaña, se observa una gráfica con las mismas operaciones de la pestaña anterior. Tambien se puede observar la activació y desactivación de
-algunas señales para observar las que se desee. 
+En la siguiente pestaña, se observa una gráfica con las mismas operaciones de la pestaña anterior pero con las señales del movimiento horizontal de la mano robótica. Tambien se puede observar la activación y desactivación de algunas señales para observar las señales que se desee. 
 
 ![HMI grafica hor](https://user-images.githubusercontent.com/82742790/115182924-adb4b200-a08f-11eb-8ddf-2337062b6147.gif)
 
