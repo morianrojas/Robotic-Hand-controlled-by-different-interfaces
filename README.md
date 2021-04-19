@@ -11,11 +11,19 @@ Utilizando Mediapipe con Python, se elaboró el control por medio de una camara 
 
 ![gestures hand master](https://user-images.githubusercontent.com/82742790/115182570-09327000-a08f-11eb-8371-044b759c23e6.gif)
 
+Una ventaja de este control, es el poder usar diferentes tamaños de manos; tal como se observa con el niño a continuación.
+
 ![gesture hand slave](https://user-images.githubusercontent.com/82742790/115182590-14859b80-a08f-11eb-86ae-44aebf3ac0c3.gif)
+
+Muestra de agarre de la mano robótica con un objeto liviano.
 
 ![gesture hand balon](https://user-images.githubusercontent.com/82742790/115182617-2109f400-a08f-11eb-962e-164def2e56a7.gif)
 
+Muestra de agarre de la mano robótica con un objeto pesado.
+
 ![gestures hand naranja](https://user-images.githubusercontent.com/82742790/115182632-26673e80-a08f-11eb-9a16-1443bdccc53b.gif)
+
+Muestra de agarre de la mano robótica con un objeto delicado.
 
 ![gestures hand huevo](https://user-images.githubusercontent.com/82742790/115182644-2b2bf280-a08f-11eb-8871-a444a09ac431.gif)
 
@@ -25,15 +33,22 @@ Se diseño un exoesqueleto en Solid Works, y se armó con un total de 95 piezas,
 
 ![movimiento exoesqueleto](https://user-images.githubusercontent.com/82742790/115182776-6a5a4380-a08f-11eb-9772-e4c7208a5a15.gif)
 
+Movimientos horizontales y verticales, muestra de 12 grados de libertad.
+
 ![exo mano movimientos](https://user-images.githubusercontent.com/82742790/115182670-367f1e00-a08f-11eb-87f2-3276b94910a5.gif)
 
+Muestra de agarre de la mano robótica con un objeto liviano por medio de control con exoesqueleto.
+
 ![exo balon](https://user-images.githubusercontent.com/82742790/115182795-70e8bb00-a08f-11eb-9748-347191d4e2b5.gif)
+
+Muestra de agarre de la mano robótica con un objeto delicado por medio de control con exoesqueleto.
 
 ![exo huevo](https://user-images.githubusercontent.com/82742790/115182809-77773280-a08f-11eb-877f-402088445121.gif)
 
 Control y monitoreo por medio de HMI:
 
-Se elaboro un HMI en LabVIEW, con un total de 6 pestañas
+Se elaboro el HMI con LabVIEW, con un total de 6 pestañas.
+
 Iniciando con la primer pestaña de usuario y contraseña
 
 ![HMI usuario](https://user-images.githubusercontent.com/82742790/115182844-8d84f300-a08f-11eb-8da4-e3381df5c716.gif)
@@ -48,20 +63,27 @@ y los sliders se habilitan. Entonces el usuario tiene control de la mano robotic
 
 ![HMI control](https://user-images.githubusercontent.com/82742790/115182870-98d81e80-a08f-11eb-8e77-fee339e77634.gif)
 
-En la siguiente pestaña, se observa una grafica con las señales de los valores de voltaje y grados de los motores. 
+En la siguiente pestaña, se observa una gráfica con las señales de los valores de voltaje y grados de los motores. 
 
 ![HMI grafica comb](https://user-images.githubusercontent.com/82742790/115182892-a42b4a00-a08f-11eb-9517-4715e59f56b0.gif)
 
-En la siguiente pestaña, se observa una grafica exclusiva para las señales de los movimientos verticales de la mano robotica.
+En la siguiente pestaña, se observa una gráfica exclusiva para las señales de los movimientos verticales de la mano robótica.
 
 ![HMI grafica vert](https://user-images.githubusercontent.com/82742790/115182911-aa212b00-a08f-11eb-9049-3a928799deeb.gif)
 
-En la siguiente pestaña, se observa una grafica con las mismas operaciones de la pestaña anterior. Se 
+En la siguiente pestaña, se observa una gráfica con las mismas operaciones de la pestaña anterior. Tambien se puede observar la activació y desactivación de
+algunas señales para observar las que se desee. 
 
 ![HMI grafica hor](https://user-images.githubusercontent.com/82742790/115182924-adb4b200-a08f-11eb-8ddf-2337062b6147.gif)
 
+En la última pestaña, se observan las alarmas en tiempo real durante el uso de la mano robótica. Esto se logro por medio de un vínculo con phpMyAdmin(progrmación en SQL).
+
 ![HMI alarmas](https://user-images.githubusercontent.com/82742790/115182941-b6a58380-a08f-11eb-87bf-97b22d65b543.gif)
 
+La búsqueda de estas alarmas se puede reducir a un intervalo de fechas especificada por el usuario.
+
 ![HMI fechas](https://user-images.githubusercontent.com/82742790/115182952-bc9b6480-a08f-11eb-8d28-1ca9529a7a6c.gif)
+
+Se observa a continuación las animaciones del HMI junto con la mano robótica. 
 
 ![HMI movements](https://user-images.githubusercontent.com/82742790/115182973-c624cc80-a08f-11eb-9ec5-99ccf357fa92.gif)
