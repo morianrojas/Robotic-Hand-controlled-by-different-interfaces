@@ -75,11 +75,11 @@ En la siguiente pestaña, se observa una gráfica con las mismas operaciones de 
 
 ![HMI grafica hor](https://user-images.githubusercontent.com/82742790/115182924-adb4b200-a08f-11eb-8ddf-2337062b6147.gif)
 
-En la última pestaña, se observan las alarmas en tiempo real durante el uso de la mano robótica. Esto se logro por medio de un vínculo con phpMyAdmin(progrmación en SQL).
+En la última pestaña, se observan las alarmas en tiempo real que se activaron durante el uso de la mano robótica. Esto se logró por medio de un vínculo con phpMyAdmin (progrmación en SQL) y LabVIEW.
 
 ![HMI alarmas](https://user-images.githubusercontent.com/82742790/115182941-b6a58380-a08f-11eb-87bf-97b22d65b543.gif)
 
-La búsqueda de estas alarmas se puede reducir a un intervalo de fechas especificada por el usuario.
+La búsqueda de estas alarmas se puede reducir a un intervalo de fechas y horas especificadas por el usuario.
 
 ![HMI fechas](https://user-images.githubusercontent.com/82742790/115182952-bc9b6480-a08f-11eb-8d28-1ca9529a7a6c.gif)
 
