@@ -53,7 +53,7 @@ Iniciando con la primer pestaña de usuario y contraseña
 
 ![HMI usuario](https://user-images.githubusercontent.com/82742790/115182844-8d84f300-a08f-11eb-8da4-e3381df5c716.gif)
 
-En la pestaña principal, se observan animaciones de la mano robótica, indicadores del estado del sistema, indicadores de alarmas, 
+En la pestaña principal, se observan animaciones de la mano robótica, indicadores del estado del sistema, indicadores de alarmas e 
 indicadores de los valores que llegan por el puerto serial.
 
 ![HMI encendido](https://user-images.githubusercontent.com/82742790/115182855-937ad400-a08f-11eb-8377-4205a007d89b.gif)
