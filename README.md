@@ -1,7 +1,7 @@
 # Robotic hand controlled by different interfaces
 
   Proyecto de 10 cuatrimestre en ingenieria en mecatronica de la Universidad Tecnologica de Tijuana.
-  El nombre del proyecto es "Prototipo de mano robótica controlada por diferentes interfaces".
+  El nombre asignado al proyecto es "Prototipo de mano robótica controlada por diferentes interfaces".
   Se diseñó una mano robótica con impresión 3D, con 12 grados de libertad; y controlada por medio de un exoesqueleto,
   un HMI, y control por gesturas a traves de una camara web. 
   
@@ -9,7 +9,7 @@
 
 # Presentacion
 
-Control por medio de gesturas a traves de una camara web:
+  Control por medio de gesturas a traves de una camara web:
   
 ![gestures hand master](https://user-images.githubusercontent.com/82742790/115182570-09327000-a08f-11eb-8371-044b759c23e6.gif)
 
