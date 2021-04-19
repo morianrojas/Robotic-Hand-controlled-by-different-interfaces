@@ -4,8 +4,8 @@ El nombre asignado al proyecto es "Prototipo de mano robótica controlada por di
 Se diseñó una mano robótica con impresión 3D, con 12 grados de libertad; y controlada por medio de un exoesqueleto,
 un HMI, y control por gesturas a traves de una camara web.   
 # Estudiantes: Moriancumer Rojas Higuera, Raúl Dionicio de la Cruz
-# Presentación
-$ Control por medio de gesturas a traves de una camara web:
+## Presentación
+###### Control por medio de gesturas a traves de una camara web:
 
 Utilizando Mediapipe con Python, se elaboró el control por medio de una camara web
 
@@ -27,7 +27,7 @@ Muestra de agarre de la mano robótica con un objeto delicado.
 
 ![gestures hand huevo](https://user-images.githubusercontent.com/82742790/115182644-2b2bf280-a08f-11eb-8871-a444a09ac431.gif)
 
-$ Control por medio de exoesqueleto:
+###### Control por medio de exoesqueleto:
 
 Se diseño un exoesqueleto en Solid Works, y se armó con un total de 95 piezas, 104 tornillos y 12 potenciometros.
 
@@ -45,7 +45,7 @@ Muestra de agarre de la mano robótica con un objeto delicado por medio de contr
 
 ![exo huevo](https://user-images.githubusercontent.com/82742790/115182809-77773280-a08f-11eb-877f-402088445121.gif)
 
-Control y monitoreo por medio de HMI:
+###### Control y monitoreo por medio de HMI:
 
 Se elaboro el HMI con LabVIEW, con un total de 6 pestañas.
 
