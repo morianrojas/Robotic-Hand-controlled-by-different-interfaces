@@ -9,19 +9,26 @@
 
 # Presentacion
 
-  Control por medio de gesturas a traves de una camara web:
-  
+Control por medio de gesturas a traves de una camara web:
+
+
 ![gestures hand master](https://user-images.githubusercontent.com/82742790/115182570-09327000-a08f-11eb-8371-044b759c23e6.gif)
+
 
 ![gesture hand slave](https://user-images.githubusercontent.com/82742790/115182590-14859b80-a08f-11eb-86ae-44aebf3ac0c3.gif)
 
+
 ![gesture hand balon](https://user-images.githubusercontent.com/82742790/115182617-2109f400-a08f-11eb-962e-164def2e56a7.gif)
+
 
 ![gestures hand naranja](https://user-images.githubusercontent.com/82742790/115182632-26673e80-a08f-11eb-9a16-1443bdccc53b.gif)
 
 ![gestures hand huevo](https://user-images.githubusercontent.com/82742790/115182644-2b2bf280-a08f-11eb-8871-a444a09ac431.gif)
 
 Control por medio de exoesqueleto:
+
+Se diseño un exoesqueleto en Solid Works, y se armó con un total de 95 piezas, 104 tornillos y 12 potenciometros.
+
   
 ![movimiento exoesqueleto](https://user-images.githubusercontent.com/82742790/115182776-6a5a4380-a08f-11eb-9772-e4c7208a5a15.gif)
 
