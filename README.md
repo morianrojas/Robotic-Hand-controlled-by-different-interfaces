@@ -71,7 +71,7 @@ En la siguiente pestaña, se observa una gráfica exclusiva para las señales de
 
 ![HMI grafica vert](https://user-images.githubusercontent.com/82742790/115182911-aa212b00-a08f-11eb-9049-3a928799deeb.gif)
 
-En la siguiente pestaña, se observa una gráfica con las mismas operaciones de la pestaña anterior pero con las señales del movimiento horizontal de la mano robótica. Tambien se puede observar la activación y desactivación de algunas señales para observar las señales que se desee. 
+En la siguiente pestaña, se observa una gráfica con las mismas operaciones de la pestaña anterior pero con las señales del movimiento horizontal de la mano robótica. Tambien se puede observar la activación y desactivación de algunas señales, con el fin de observar el comportamiento de las señales que se desee. 
 
 ![HMI grafica hor](https://user-images.githubusercontent.com/82742790/115182924-adb4b200-a08f-11eb-8ddf-2337062b6147.gif)
 
