@@ -45,7 +45,7 @@ Muestra de agarre de la mano robótica con un objeto delicado por medio de contr
 
 ![exo huevo](https://user-images.githubusercontent.com/82742790/115182809-77773280-a08f-11eb-877f-402088445121.gif)
 
-## Control y monitoreo por medio de HMI:
+#### Control y monitoreo por medio de un HMI:
 
 Se elaboro el HMI con LabVIEW, con un total de 6 pestañas.
 
