@@ -1,5 +1,16 @@
-# Robotic-Hand-controlled-by-different-interfaces
+# Robotic hand controlled by different interfaces
 
+  Proyecto de 10 cuatrimestre en ingenieria en mecatronica de la Universidad Tecnologica de Tijuana.
+  El nombre del proyecto es "Prototipo de mano robótica controlada por diferentes interfaces".
+  Se diseñó una mano robótica con impresión 3D, con 12 grados de libertad; y controlada por medio de un exoesqueleto,
+  un HMI, y control por gesturas a traves de una camara web. 
+  
+# Estudiantes: Moriancumer Rojas Higuera, Raul Dionicio de la Cruz
+
+# Presentacion
+
+Control por medio de gesturas a traves de una camara web:
+  
 ![gestures hand master](https://user-images.githubusercontent.com/82742790/115182570-09327000-a08f-11eb-8371-044b759c23e6.gif)
 
 ![gesture hand slave](https://user-images.githubusercontent.com/82742790/115182590-14859b80-a08f-11eb-86ae-44aebf3ac0c3.gif)
@@ -10,6 +21,8 @@
 
 ![gestures hand huevo](https://user-images.githubusercontent.com/82742790/115182644-2b2bf280-a08f-11eb-8871-a444a09ac431.gif)
 
+Control por medio de exoesqueleto:
+  
 ![movimiento exoesqueleto](https://user-images.githubusercontent.com/82742790/115182776-6a5a4380-a08f-11eb-9772-e4c7208a5a15.gif)
 
 ![exo mano movimientos](https://user-images.githubusercontent.com/82742790/115182670-367f1e00-a08f-11eb-87f2-3276b94910a5.gif)
@@ -18,6 +31,8 @@
 
 ![exo huevo](https://user-images.githubusercontent.com/82742790/115182809-77773280-a08f-11eb-877f-402088445121.gif)
 
+Control y monitoreo por medio de HMI:
+  
 ![HMI usuario](https://user-images.githubusercontent.com/82742790/115182844-8d84f300-a08f-11eb-8da4-e3381df5c716.gif)
 
 ![HMI encendido](https://user-images.githubusercontent.com/82742790/115182855-937ad400-a08f-11eb-8377-4205a007d89b.gif)
