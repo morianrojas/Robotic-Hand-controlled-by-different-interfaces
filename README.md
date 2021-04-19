@@ -11,19 +11,19 @@ Utilizando Mediapipe con Python, se elaboró el control por medio de una camara 
 
 ![gestures hand master](https://user-images.githubusercontent.com/82742790/115182570-09327000-a08f-11eb-8371-044b759c23e6.gif)
 
-Una ventaja de este control, es el poder usar diferentes tamaños de manos; tal como se observa con el niño a continuación.
+Una ventaja de este control, es el poder usar diferentes tamaños de manos; tal como se observa con la mano de un niño a continuación.
 
 ![gesture hand slave](https://user-images.githubusercontent.com/82742790/115182590-14859b80-a08f-11eb-86ae-44aebf3ac0c3.gif)
 
-Muestra de agarre de la mano robótica con un objeto liviano.
+Muestra de agarre de la mano robótica para un objeto liviano.
 
 ![gesture hand balon](https://user-images.githubusercontent.com/82742790/115182617-2109f400-a08f-11eb-962e-164def2e56a7.gif)
 
-Muestra de agarre de la mano robótica con un objeto pesado.
+Muestra de agarre de la mano robótica para un objeto pesado.
 
 ![gestures hand naranja](https://user-images.githubusercontent.com/82742790/115182632-26673e80-a08f-11eb-9a16-1443bdccc53b.gif)
 
-Muestra de agarre de la mano robótica con un objeto delicado.
+Muestra de agarre de la mano robótica para un objeto delicado.
 
 ![gestures hand huevo](https://user-images.githubusercontent.com/82742790/115182644-2b2bf280-a08f-11eb-8871-a444a09ac431.gif)
 
@@ -37,15 +37,15 @@ Movimientos horizontales y verticales, muestra de 12 grados de libertad.
 
 ![exo mano movimientos](https://user-images.githubusercontent.com/82742790/115182670-367f1e00-a08f-11eb-87f2-3276b94910a5.gif)
 
-Muestra de agarre de la mano robótica con un objeto liviano por medio de control con exoesqueleto.
+Muestra de agarre de la mano robótica para un objeto liviano por medio de control con exoesqueleto.
 
 ![exo balon](https://user-images.githubusercontent.com/82742790/115182795-70e8bb00-a08f-11eb-9748-347191d4e2b5.gif)
 
-Muestra de agarre de la mano robótica con un objeto delicado por medio de control con exoesqueleto.
+Muestra de agarre de la mano robótica para un objeto delicado por medio de control con exoesqueleto.
 
 ![exo huevo](https://user-images.githubusercontent.com/82742790/115182809-77773280-a08f-11eb-877f-402088445121.gif)
 
-#### Control y monitoreo por medio de un HMI:
+## Control y monitoreo por medio de un HMI:
 
 Se elaboro el HMI con LabVIEW, con un total de 6 pestañas.
 
