@@ -10,19 +10,19 @@
 
 ![gestures hand huevo](https://user-images.githubusercontent.com/82742790/115182644-2b2bf280-a08f-11eb-8871-a444a09ac431.gif)
 
-![exo mano movimientos](https://user-images.githubusercontent.com/82742790/115182670-367f1e00-a08f-11eb-87f2-3276b94910a5.gif)
-
 ![movimiento exoesqueleto](https://user-images.githubusercontent.com/82742790/115182776-6a5a4380-a08f-11eb-9772-e4c7208a5a15.gif)
 
+![exo mano movimientos](https://user-images.githubusercontent.com/82742790/115182670-367f1e00-a08f-11eb-87f2-3276b94910a5.gif)
 
 ![exo balon](https://user-images.githubusercontent.com/82742790/115182795-70e8bb00-a08f-11eb-9748-347191d4e2b5.gif)
 
 ![exo huevo](https://user-images.githubusercontent.com/82742790/115182809-77773280-a08f-11eb-877f-402088445121.gif)
 
 ![HMI usuario](https://user-images.githubusercontent.com/82742790/115182844-8d84f300-a08f-11eb-8da4-e3381df5c716.gif)
-![HMI control](https://user-images.githubusercontent.com/82742790/115182870-98d81e80-a08f-11eb-8e77-fee339e77634.gif)
 
 ![HMI encendido](https://user-images.githubusercontent.com/82742790/115182855-937ad400-a08f-11eb-8377-4205a007d89b.gif)
+
+![HMI control](https://user-images.githubusercontent.com/82742790/115182870-98d81e80-a08f-11eb-8e77-fee339e77634.gif)
 
 ![HMI grafica comb](https://user-images.githubusercontent.com/82742790/115182892-a42b4a00-a08f-11eb-9517-4715e59f56b0.gif)
 
