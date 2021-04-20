@@ -1,13 +1,13 @@
 # Robotic hand controlled by different interfaces
-Proyecto de 10mo cuatrimestre en ingenieria en mecatrónica de la Universidad Tecnológica de Tijuana.
+Proyecto de 10mo cuatrimestre en ingeniería en mecatrónica de la Universidad Tecnológica de Tijuana.
 El nombre asignado al proyecto es "Prototipo de mano robótica controlada por diferentes interfaces".
 Se diseñó una mano robótica con impresión 3D, con 12 grados de libertad; y controlada por medio de un exoesqueleto,
-un HMI, y control por gesturas a traves de una camara web.   
+un HMI, y control por gesturas a través de una cámara web.   
 # Estudiantes: Moriancumer Rojas Higuera, Raúl Dionicio de la Cruz
 # Presentación
 ## Control por medio de gesturas a través de una cámara web:
 
-Utilizando Mediapipe con Python, se elaboró el control por medio de una camara web
+Utilizando Mediapipe con Python, se elaboró el control por medio de una cámara web
 
 ![gestures hand master](https://user-images.githubusercontent.com/82742790/115182570-09327000-a08f-11eb-8371-044b759c23e6.gif)
 
@@ -29,7 +29,7 @@ Muestra de agarre de la mano robótica para un objeto delicado.
 
 ## Control por medio de exoesqueleto:
 
-Se diseño un exoesqueleto en Solid Works, y se armó con un total de 95 piezas, 104 tornillos y 12 potenciometros.
+Se diseñó un exoesqueleto en Solid Works, y se armó con un total de 95 piezas, 104 tornillos y 12 potenciometros.
 
 ![movimiento exoesqueleto](https://user-images.githubusercontent.com/82742790/115182776-6a5a4380-a08f-11eb-9772-e4c7208a5a15.gif)
 
@@ -47,9 +47,9 @@ Muestra de agarre de la mano robótica para un objeto delicado por medio de cont
 
 ## Control y monitoreo por medio de un HMI:
 
-Se elaboro el HMI con LabVIEW, con un total de 6 pestañas.
+Se elaboró el HMI con LabVIEW, con un total de 6 pestañas.
 
-Iniciando con la primer pestaña de usuario y contraseña
+Iniciando con la primer pestaña de usuario y contraseña.
 
 ![HMI usuario](https://user-images.githubusercontent.com/82742790/115182844-8d84f300-a08f-11eb-8da4-e3381df5c716.gif)
 
@@ -58,7 +58,7 @@ indicadores de los valores que llegan por el puerto serial.
 
 ![HMI encendido](https://user-images.githubusercontent.com/82742790/115182855-937ad400-a08f-11eb-8377-4205a007d89b.gif)
 
-Una vez encendido, se inicia por defecto en modo lectura, si se da click en el boton de control, los indicadores de estado cambian a color amarillo
+Una vez encendido, se inicia por defecto en modo lectura, si se da click en el botón de control, los indicadores de estado cambian a color amarillo
 y los sliders se habilitan. Entonces el usuario tiene control de la mano robótica desde el HMI. 
 
 ![HMI control](https://user-images.githubusercontent.com/82742790/115182870-98d81e80-a08f-11eb-8e77-fee339e77634.gif)
