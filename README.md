@@ -5,7 +5,7 @@ Se diseñó una mano robótica con impresión 3D, con 12 grados de libertad; y c
 un HMI, y control por gesturas a traves de una camara web.   
 # Estudiantes: Moriancumer Rojas Higuera, Raúl Dionicio de la Cruz
 # Presentación
-## Control por medio de gesturas a traves de una camara web:
+## Control por medio de gesturas a través de una cámara web:
 
 Utilizando Mediapipe con Python, se elaboró el control por medio de una camara web
 
