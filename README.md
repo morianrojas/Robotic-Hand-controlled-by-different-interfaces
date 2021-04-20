@@ -7,7 +7,7 @@ un HMI, y control por gesturas a través de una cámara web.
 # Presentación
 ## Control por medio de gesturas a través de una cámara web:
 
-Utilizando Mediapipe con Python, se elaboró el control por medio de una cámara web
+Utilizando Mediapipe con Python, se elaboró el control por medio de una cámara web.
 
 ![gestures hand master](https://user-images.githubusercontent.com/82742790/115182570-09327000-a08f-11eb-8371-044b759c23e6.gif)
 
